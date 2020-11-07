@@ -4,6 +4,9 @@
 body{
     margin: 0;
     padding: 0;
+    background-image: url("./Background.svg");
+    background-position: center;
+    background-size: cover;
 }
 .nav-container{
     position: fixed;
