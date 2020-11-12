@@ -4,7 +4,7 @@
 body{
     margin: 0;
     padding: 0;
-    background-image: url("./Background.svg");
+    background-image: url("../img/Background.svg");
     background-position: center;
     background-size: cover;
 }
