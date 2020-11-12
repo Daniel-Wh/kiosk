@@ -103,7 +103,8 @@ width: 200px;
 }
 
 .wifi-menu-container {
-    display: flex;
+    /* display: flex; */
+    display: none;
     height: 30vh;
     width: 30vw;
     flex-direction: column;
